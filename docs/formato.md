@@ -9,6 +9,7 @@ implementaciones en varios ejercicios.
 > **Es importante que el archivo zip no contenga archivos de ningún otro tipo, como test/pruebas, archivos binarios, etc.**
 
 Recomendamos basarse en los templates provistos por la cátedra para minimizar la posibilidad de errores en la entrega.
+
 - [Template C++](https://github.com/Algoritmos-2/A2-obligatorio-template-cpp)
 - [Template Java](https://github.com/Algoritmos-2/A2-obligatorio-template-java)
 
@@ -42,6 +43,8 @@ podría tener:
 ...
 └── ejercicio10.cpp
 ```
+
+> Tenga en cuenta de **solomente** entregar los ejercicios correspondientes a la entrega actual.
 
 Notar que es obligatorio que en la raíz del zip se encuentren los
 archivos "ejercicioX.cpp". Los directorios para funciones auxiliares y
