@@ -17,8 +17,8 @@ Se tiene una base de datos de usuarios identificados por su dirección de correo
 
 ## Restricciones
 
-- Se debe usar una **tabla hash cerrada**.
-- Resolver con complejidad temporal promedio **O(N)**, siendo **N** la cantidad de usuarios.
+- Se debe usar una **tabla hash abierta**.
+- Resolver con complejidad temporal promedio **O(N)**, siendo **N** la cantidad de usuarios en el sistema.
 
 ## Ejemplos
 
