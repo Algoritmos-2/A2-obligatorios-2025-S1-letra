@@ -1,4 +1,4 @@
-# Ejercicio 2 - Diccionario
+# Ejercicio 2 - Diccionario (Obligatorio 1)
 
 **Nombre de archivo:** `ejercicio2.cpp` / `Ejercicio2.java`
 
@@ -55,4 +55,3 @@ mar
 ### Explicación
 
 - "gato" y "cielo" están en el diccionario, mientras que "flor" y "mar" no lo están.
-

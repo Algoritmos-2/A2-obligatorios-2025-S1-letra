@@ -1,4 +1,4 @@
-# Ejercicio 3 - Sorting
+# Ejercicio 3 - Sorting (Obligatorio 1)
 
 **Nombre de archivo:** `ejercicio3.cpp` / `ejercicio3.java`
 
@@ -46,4 +46,3 @@ Dado un conjunto de números enteros, se requiere implementar un algoritmo de or
 ### Explicación
 
 Los números ordenados en forma ascendente son: 3, 5, 8, 10, 20.
-

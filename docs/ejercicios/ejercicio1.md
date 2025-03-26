@@ -1,4 +1,4 @@
-# Ejercicio 1 - Emails
+# Ejercicio 1 - Emails (Obligatorio 1)
 
 **Nombre de archivo:** `ejercicio1.cpp` o `Ejercicio1.java`
 

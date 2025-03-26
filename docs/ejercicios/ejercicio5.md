@@ -1,4 +1,4 @@
-# Ejercicio 5 - Ciclicidad
+# Ejercicio 5 - Ciclicidad (Obligatorio 1)
 
 **Nombre de archivo:** `ejercicio5.cpp` / `Ejercicio5.java`
 
@@ -58,4 +58,3 @@ Imprimir una sola línea con:
 ### Explicación
 
 El grafo contiene un ciclo: 2 → 3 → 4 → 2.
-

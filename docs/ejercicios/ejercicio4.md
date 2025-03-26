@@ -1,4 +1,4 @@
-# Ejercicio 4 - Camino más Corto
+# Ejercicio 4 - Camino más Corto (Obligatorio 1)
 
 **Nombre de archivo:** `ejercicio4.cpp` / `Ejercicio4.java`
 
@@ -78,4 +78,3 @@ C_{N,V}
 5
 9
 ```
-
