@@ -52,7 +52,7 @@ C_{N,V}
 ## Restricciones
 
 - Utilizar el algoritmo de Dijkstra con cola de prioridad eficiente (heap).
-- Complejidad esperada: $O((V + E) \log V)$.
+- Complejidad esperada: $O(N (V + E) \log V)$.
 
 ## Ejemplo
 
