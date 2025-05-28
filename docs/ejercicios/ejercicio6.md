@@ -47,7 +47,7 @@ XK HK
 
 Implementar la solucion con la tactica de **Divide & Conquer**
 
-$O(N * log\ N)$
+$O(N * log\ N)$ siendo N la cantidad de edificios.
 
 ## Ejemplo
 
