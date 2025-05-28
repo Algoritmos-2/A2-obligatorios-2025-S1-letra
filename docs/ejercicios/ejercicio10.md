@@ -2,13 +2,13 @@
 
 ## Descripción
 
-Un amigo experto en sudoku quiere hacer una competencia con usted en sudoku competitivo. Este sudoku competitivo tiene una variación respecto al sudoku comun. Esta variación es que tiene tableros de distintas dimenciones, como por ejemplo 9x9, 12x9, 9x12, etc. Dado que usted no es muy bueno en sudoku, pero no quiere perder contra su amigo decide hacer trampa. Para ello, hara un programa que dado un tablero de sudoku, le imprime la solucion del mismo.
+Un amigo experto en sudoku quiere hacer una competencia con usted en sudoku competitivo. Este sudoku competitivo tiene una variación respecto al sudoku común. Esta variación es que tiene tableros de distintas dimenciones, como por ejemplo 9x9, 12x9, 9x12, etc. Dado que usted no es muy bueno en sudoku, pero no quiere perder contra su amigo decide hacer trampa. Para ello, hara un programa que dado un tablero de sudoku, le imprime la solución del mismo.
 
 Las reglas del sudoku son las siguientes:
 
-- En una fila no puede haber dos numeros repetidos.
-- En una columna no puede haber dos numeros repetidos.
-- Si dividimos el tablero en 9 bloques (de `filas totales/3` filas * `columnas totales/3` columnas), en cada bloque no puede haber numeros repetidos. Y los numeros del 1 al k, sin saltearse ningun número.
+- En una fila no puede haber dos números repetidos.
+- En una columna no puede haber dos números repetidos.
+- Si dividimos el tablero en 9 bloques (de `filas totales/3` filas * `columnas totales/3` columnas), en cada bloque no puede haber números repetidos. Y los números del 1 al k, sin saltearse ningún número.
 
 ## Entrada
 
@@ -26,10 +26,6 @@ Las reglas del sudoku son las siguientes:
 ...
 <fila final>
 ```
-
-## Restricciones
-
-
 
 ## Ejemplo
 
@@ -62,5 +58,3 @@ Las reglas del sudoku son las siguientes:
 9 3 4 5 7 1 8 2 6
 
 ```
-
-### Explicación
