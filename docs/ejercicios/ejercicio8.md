@@ -1,8 +1,8 @@
-# Ejercicio 8 - Se rompio grep
+# Ejercicio 8 - Se rompió grep
 
 ## Descripción
 
-Se rompio grep, y como buenos ingenieros, no se les ocurrio mejor idea que reescribirlo desde cero.
+Se rompió grep, y como buenos ingenieros, no se les ocurrió mejor idea que reescribirlo desde cero.
 
 Dado un texto `t` formado por letras minúsculas, y un patrón `p` formado por letras minúsculas y dos carateres especiales `.` y `*`, de forma que:
 
