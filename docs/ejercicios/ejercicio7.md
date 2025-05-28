@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Dado un numero, imprimir el palíndromo mas grande posible. En caso de no ser posible, imprimir "No"
+Dado un número, imprimir el palíndromo más grande posible usando todas las cifras. En caso de no ser posible, imprimir "No".
 
 ## Entrada
 
@@ -10,7 +10,7 @@ Dado un numero, imprimir el palíndromo mas grande posible. En caso de no ser po
 N
 ```
 
-Una unica linea con el numero del que queremos encontrar el palíndromo más grande.
+Una única linea con el número del que queremos encontrar el palíndromo más grande.
 
 ## Salida
 
@@ -36,7 +36,6 @@ $O(N)$
 
 ```txt
 5319135
-
 ```
 
 ### Explicación
