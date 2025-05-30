@@ -24,6 +24,8 @@ O bien, el palíndromo más grande, o bien `No`
 
 $O(N)$
 
+Siendo `N` la cantidad de dígitos del número.
+
 ## Ejemplo
 
 ### Input
