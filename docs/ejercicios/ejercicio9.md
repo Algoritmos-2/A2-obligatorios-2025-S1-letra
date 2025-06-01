@@ -41,7 +41,6 @@ $O(N*S*L)$ temporal y espacial
 
 Debe realizarce con la técnica de **tabulación**
 
-
 ## Ejemplo
 
 ### Input
