@@ -45,7 +45,7 @@ Cada entrega/obligatorio debe cumplir con los ejercicios obligatorios que se det
 - [Ejercicio 4](/ejercicios/ejercicio4)
 - [Ejercicio 5](/ejercicios/ejercicio5)
 
-**Obligatorio 2 (21/06):**
+**Obligatorio 2 (26/06):**
 
 - [Ejercicio 6](/ejercicios/ejercicio6)
 - [Ejercicio 7](/ejercicios/ejercicio7)
